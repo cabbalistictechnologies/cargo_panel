@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.\[\&\>svg\]\:w-4 > svg{
+    width: 2rem !important;
+    height: 2rem !important;
+}
